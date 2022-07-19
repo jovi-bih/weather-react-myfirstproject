@@ -11,14 +11,14 @@ export default function App() {
         <footer>
           This project was coded by Bih Jovi and is {""}
           <a
-            href="https://github.com/jovi-bih/react-weather-app"
+            href="https://github.com/jovi-bih/weather-react-myfirstproject"
             target="_blank"
           >
             open-sourced on GitHub
           </a>
           {""} and {""}
           <a
-            href="https://github.com/jovi-bih/react-weather-app"
+            href="https://github.com/jovi-bih/weather-react-myfirstproject"
             target="_blank"
           >
             hosted on Netlify.
