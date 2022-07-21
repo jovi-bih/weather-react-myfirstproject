@@ -13,6 +13,7 @@ export default function App() {
           <a
             href="https://github.com/jovi-bih/weather-react-myfirstproject"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
@@ -20,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/jovi-bih/weather-react-myfirstproject"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify.
           </a>
